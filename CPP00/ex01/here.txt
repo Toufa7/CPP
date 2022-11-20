@@ -1,0 +1,149 @@
+              Welcome to your awesome phonebook book
+Usage
+      ADD
+      SEARCH
+      EXIT
+1) First Name : 2) Last Name : 3) Nickname : 4) Phone Number : 5) Darkest Secret :       Contact has been successfully created 
+      ADD
+      SEARCH
+      Exit
+[]: Unknown Command
+Please select one of the down commands [UPPERCASE]
+      ADD
+      SEARCH
+      Exit
+[]: Unknown Command
+Please select one of the down commands [UPPERCASE]
+      ADD
+      SEARCH
+      Exit
+1) First Name : 2) Last Name : 3) Nickname : 4) Phone Number : 5) Darkest Secret :       Contact has been successfully created 
+      ADD
+      SEARCH
+      Exit
+[]: Unknown Command
+Please select one of the down commands [UPPERCASE]
+      ADD
+      SEARCH
+      Exit
+[]: Unknown Command
+Please select one of the down commands [UPPERCASE]
+      ADD
+      SEARCH
+      Exit
+1) First Name : 2) Last Name : 3) Nickname : 4) Phone Number : 5) Darkest Secret :       Contact has been successfully created 
+      ADD
+      SEARCH
+      Exit
+[]: Unknown Command
+Please select one of the down commands [UPPERCASE]
+      ADD
+      SEARCH
+      Exit
+1) First Name : 2) Last Name : 3) Nickname : 4) Phone Number : 5) Darkest Secret :       Contact has been successfully created 
+      ADD
+      SEARCH
+      Exit
+[]: Unknown Command
+Please select one of the down commands [UPPERCASE]
+      ADD
+      SEARCH
+      Exit
+1) First Name : 2) Last Name : 3) Nickname : 4) Phone Number : 5) Darkest Secret :       Contact has been successfully created 
+      ADD
+      SEARCH
+      Exit
+[]: Unknown Command
+Please select one of the down commands [UPPERCASE]
+      ADD
+      SEARCH
+      Exit
+[]: Unknown Command
+Please select one of the down commands [UPPERCASE]
+      ADD
+      SEARCH
+      Exit
+1) First Name : 2) Last Name : 3) Nickname : 4) Phone Number : 5) Darkest Secret :       Contact has been successfully created 
+      ADD
+      SEARCH
+      Exit
+[]: Unknown Command
+Please select one of the down commands [UPPERCASE]
+      ADD
+      SEARCH
+      Exit
+1) First Name : 2) Last Name : 3) Nickname : 4) Phone Number : 5) Darkest Secret :       Contact has been successfully created 
+      ADD
+      SEARCH
+      Exit
+[]: Unknown Command
+Please select one of the down commands [UPPERCASE]
+      ADD
+      SEARCH
+      Exit
+1) First Name : 2) Last Name : 3) Nickname : 4) Phone Number : 5) Darkest Secret :       Contact has been successfully created 
+      ADD
+      SEARCH
+      Exit
+[]: Unknown Command
+Please select one of the down commands [UPPERCASE]
+      ADD
+      SEARCH
+      Exit
+1) First Name : 2) Last Name : 3) Nickname : 4) Phone Number : 5) Darkest Secret :       Contact has been successfully created 
+      ADD
+      SEARCH
+      Exit
+[]: Unknown Command
+Please select one of the down commands [UPPERCASE]
+      ADD
+      SEARCH
+      Exit
+1) First Name : 2) Last Name : 3) Nickname : 4) Phone Number : 5) Darkest Secret :       Contact has been successfully created 
+      ADD
+      SEARCH
+      Exit
+[]: Unknown Command
+Please select one of the down commands [UPPERCASE]
+      ADD
+      SEARCH
+      Exit
+ ─────────────────────────────────────────── 
+|       Idx| FirstName|  LastName|  Nickname|
++──────────+──────────+──────────+──────────+
+|         0|POPOPOPOPO|POPOPOPOPO|POPOPOPOPO|
++───────────────────────────────────────────+
+|         1|OIA KJHLI.|OIA KJHLI.|OIA KJHLI.|
++───────────────────────────────────────────+
+|         2|         C|         C|         C|
++───────────────────────────────────────────+
+|         3|         D|         D|         D|
++───────────────────────────────────────────+
+|         4|         E|         E|         E|
++───────────────────────────────────────────+
+|         5|         F|         F|         F|
++───────────────────────────────────────────+
+|         6|         G|         G|         G|
++───────────────────────────────────────────+
+|         7|         H|         H|         H|
++───────────────────────────────────────────+
+Who's you're looking for : 
+Currenlty You Have : 8
+1) First Name : POPOPOPOPO
+2) Last Name : POPOPOPOPO
+3) Nickname : POPOPOPOPO
+4) Phone Number : 88
+5) Darkest Secret : HH
+      ADD
+      SEARCH
+      Exit
+[]: Unknown Command
+Please select one of the down commands [UPPERCASE]
+      ADD
+      SEARCH
+      Exit
+[]: Unknown Command
+Please select one of the down commands [UPPERCASE]
+      ADD
+      SEARCH
+      Exit
