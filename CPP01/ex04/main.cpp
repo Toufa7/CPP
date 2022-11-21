@@ -2,45 +2,41 @@
 #include <string>
 #include <fstream>
 
-// int main(int ac, char *av[])
-// {
-// 	std::ifstream	myfile;
-// 	std::string		myline;
-
-// 	if (ac)
-// 	{
-// 		myfile.open("./test.txt");
-// 		if (myfile.is_open())
-// 		{
-// 			while (std::getline(myfile, myline))
-// 			{
-// 				std::cout << myline << '\n';
-// 				// string.replace(string.find("%s"), string("%s").size(), "Something");
-// 				std::string hello = myline;
-// 				hello.replace(1, 1, "B");
-// 			}
-// 		}
-// 		else
-// 			std::cerr << "Cannot open: " << av[1] << '\n';
-// 	}
-// 	else
-// 		std::cout << "Provide your 3 arguments" << std::endl;
-// }
-
-static int	DidYouFoundIt(std::string haystack, std::string needle)
+int main (int ac, char *av[])
 {
-	int idx;
+	std::ifstream	in;
+	std::ofstream	out;
 
-	idx = haystack.find(needle);
-	std::cout << idx << std::endl;
-	return (idx);
-}
+	std::string		input;
+	std::string		needle;
+	std::string		replace;
+	std::string		filename;
 
-int main ()
-{
-    std::string str1 ("Omar Omar Omar"), str2 ("Omar"), str3 ("Safe");
-    std::string ho = str1;
-	ho.replace(DidYouFoundIt(str1, str2), str3.length(),str3);
-    std::cout << ho << std::endl;
-    return 0;
+	filename = av[1];
+	needle = av[2];
+	replace = av[3];
+	if (ac == 4)
+	{
+		int idx;
+		in.open(filename);
+		if (in.is_open())
+		{
+			while (std::getline(in, input))
+			{
+				idx = 0;
+				while ((idx = input.find(needle, idx)) != -1)
+				{
+					input.replace(idx, needle.length(),replace);
+					// out.open(filename + ".replace", std::ios::out);
+					idx += replace.length();
+				}
+			}
+		}
+		else
+		{
+			std::cerr << "Error: " << filename << " could not be opened" << std::endl;
+		}
+	}
+	else
+		std::cerr << "Provide us with 3 Args : [filename] [needle] [replace]" << std::endl;
 }
